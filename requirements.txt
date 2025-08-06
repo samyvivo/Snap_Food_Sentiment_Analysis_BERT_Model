@@ -1,7 +1,8 @@
 streamlit
-torch==2.0.1+cpu
+torch==2.0.1
 transformers
 requests
+
 
 
 
