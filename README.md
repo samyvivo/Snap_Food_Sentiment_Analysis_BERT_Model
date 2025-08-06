@@ -25,6 +25,8 @@
 │── 📁 data/                 # دیتاست نظرات اسنپ‌فود
 
 
+لینک مدل : https://huggingface.co/samyhusy/Snap_food_Sentiment_analysis/resolve/main/snapfood_model.zip
+
 🚀 اجرای پروژه به صورت محلی
 
 git clone https://github.com/samyvivo/Snap_Food_Sentiment_Analysis_BERT_Model_fa.git
